@@ -85,12 +85,11 @@ A vanilla JavaScript grocery store app rebuilt in React — my first project lea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jawairia-Mazhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawairia-Mazhar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jawairia-Mazhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jawairia-Mazhar&layout=compact&theme=tokyonight&hide_border=true" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawairia-Mazhar&theme=tokyonight&hide_border=true" />
+ <img src="https://streak-stats.demolab.com/?user=Jawairia-Mazhar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
